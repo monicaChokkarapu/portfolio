@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "/monicaChokkarapu/portfolio/static/css/main.8cf9f879.chunk.css",
+    "main.js": "/monicaChokkarapu/portfolio/static/js/main.8fea3169.chunk.js",
+    "main.js.map": "/monicaChokkarapu/portfolio/static/js/main.8fea3169.chunk.js.map",
+    "runtime-main.js": "/monicaChokkarapu/portfolio/static/js/runtime-main.2cb614a6.js",
+    "runtime-main.js.map": "/monicaChokkarapu/portfolio/static/js/runtime-main.2cb614a6.js.map",
+    "static/css/2.60972750.chunk.css": "/monicaChokkarapu/portfolio/static/css/2.60972750.chunk.css",
+    "static/js/2.a7dd413b.chunk.js": "/monicaChokkarapu/portfolio/static/js/2.a7dd413b.chunk.js",
+    "static/js/2.a7dd413b.chunk.js.map": "/monicaChokkarapu/portfolio/static/js/2.a7dd413b.chunk.js.map",
+    "index.html": "/monicaChokkarapu/portfolio/index.html",
+    "precache-manifest.364e423c2f02eebb00b2bdf6aefc87ef.js": "/monicaChokkarapu/portfolio/precache-manifest.364e423c2f02eebb00b2bdf6aefc87ef.js",
+    "service-worker.js": "/monicaChokkarapu/portfolio/service-worker.js",
+    "static/css/2.60972750.chunk.css.map": "/monicaChokkarapu/portfolio/static/css/2.60972750.chunk.css.map",
+    "static/css/main.8cf9f879.chunk.css.map": "/monicaChokkarapu/portfolio/static/css/main.8cf9f879.chunk.css.map",
+    "static/js/2.a7dd413b.chunk.js.LICENSE.txt": "/monicaChokkarapu/portfolio/static/js/2.a7dd413b.chunk.js.LICENSE.txt",
+    "static/media/coding_laptop.jpg": "/monicaChokkarapu/portfolio/static/media/coding_laptop.5a147418.jpg",
+    "static/media/dark_keyboard.jpg": "/monicaChokkarapu/portfolio/static/media/dark_keyboard.52d9f87b.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.2cb614a6.js",
+    "static/css/2.60972750.chunk.css",
+    "static/js/2.a7dd413b.chunk.js",
+    "static/css/main.8cf9f879.chunk.css",
+    "static/js/main.8fea3169.chunk.js"
+  ]
+}
